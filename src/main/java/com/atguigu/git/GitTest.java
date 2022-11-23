@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master update 2");
         System.out.println("hot-fix update2");
         System.out.println("1234567");
+        System.out.println("7654321");
     }
 }
