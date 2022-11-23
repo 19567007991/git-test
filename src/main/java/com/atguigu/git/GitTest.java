@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hot-fix update2");
         System.out.println("1234567");
         System.out.println("7654321");
+        System.out.println("github update you can pull")
     }
 }
